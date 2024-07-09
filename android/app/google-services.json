@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499028027145",
+    "project_id": "flutter-connectivity-auth-app",
+    "storage_bucket": "flutter-connectivity-auth-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499028027145:android:aecd1dcb16d5fbdc9215d8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_connectivity_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNJnGJDh2xc84Z_s6u_upLWheBrUYI6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
