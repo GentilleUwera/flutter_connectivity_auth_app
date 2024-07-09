@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_connectivity_auth_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_connectivity_auth_app
+>>>>>>> 056ee60910bf3325caa82b5c27f4d2a3ad920ad3
